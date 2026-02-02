@@ -17,7 +17,7 @@ Each lab focuses on a specific phase or concept of compiler construction, implem
 
 ## Repository Structure
 
-COMPILER_DESIGN/<br>
+Compiler Design/<br>
 ├── Lab0/<br>
 │ ├── README.md<br>
 │ ├── String Reverser.c<br>
