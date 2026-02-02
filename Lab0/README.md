@@ -42,10 +42,10 @@ Lab0/<br>
 - Loop-based reversal logic
 - Temporary variable swapping
 
-**Sample Input:**
+**Sample Input:**<br>
 KamaleshSP<br>
 
-**Sample Output:**
+**Sample Output:**<br>
 Enter string: KamaleshSP<br>
 String Reverse with build-in function...<br>
 Reversed string: PShselamaK<br>
@@ -68,10 +68,10 @@ Reversed string: PShselamaK<br>
 - Loop traversal
 - Difference between logical length and memory size
 
-**Sample Input:**
+**Sample Input:**<br>
 KamaleshSP<br>
 
-**Sample Output:**
+**Sample Output:**<br>
 Enter string: KamaleshSP<br>
 Length of string with build-in function: 10<br>
 Length of string without build-in function: 10<br>
@@ -93,11 +93,11 @@ Length of string without build-in function: 10<br>
 - Conditional statements
 - Loop-based validation
 
-**Sample Input1:**
+**Sample Input1:**<br>
 KamaleshSP<br>
 KamaleshSP<br>
 
-**Sample Output1:**
+**Sample Output1:**<br>
 Enter first string: KamaleshSP<br>
 Enter second string: KamaleshSP<br>
 Comparing strings with build-in function...<br>
@@ -105,11 +105,11 @@ Strings are equal<br>
 Comparing strings without build-in function...<br>
 Strings are equal<br>
 
-**Sample Input2:**
+**Sample Input2:**<br>
 KamaleshSP<br>
 kamaleshsp<br>
 
-**Sample Output2:**
+**Sample Output2:**<br>
 Enter first string: KamaleshSP<br>
 Enter second string: kamaleshsp<br>
 Comparing strings with build-in function...<br>
