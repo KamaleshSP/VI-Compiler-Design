@@ -8,14 +8,14 @@ Each lab focuses on a specific phase or concept of compiler construction, implem
 
 ---
 
-## 🧪 Lab Classification
+## Lab Classification
 
 - **Lab 0** → Practice Session (C programming fundamentals for compiler labs)
 - **Lab 1 onwards** → Actual Compiler Design Experiments
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 COMPILER_DESIGN/<br>
 ├── Lab0/<br>
@@ -39,9 +39,9 @@ COMPILER_DESIGN/<br>
 
 ---
 
-## 🧪 Lab Details
+## Lab Details
 
-### 🔹 Lab 0 – String Operations in C (Practice Session)
+### Lab 0 – String Operations in C (Practice Session)
 
 **Purpose:**  
 Lab 0 is a **practice lab** designed to refresh essential C programming concepts required for compiler design experiments.<br>
@@ -57,11 +57,11 @@ Lab 0 is a **practice lab** designed to refresh essential C programming concepts
 - Built-in vs manual logic
 - Loops and conditionals
 
-> 📄 Detailed documentation is available inside `Lab0/README.md`.<br>
+> Detailed documentation is available inside `Lab0/README.md`.<br>
 
 ---
 
-### 🔹 Lab 1 – Lexical Analyzer in C
+### Lab 1 – Lexical Analyzer in C
 
 **Purpose:**  
 Lab 1 marks the **beginning of actual compiler design experiments** and focuses on implementing a **Lexical Analyzer**, which is the **first phase of a compiler**.<br>
@@ -80,11 +80,11 @@ Lab 1 marks the **beginning of actual compiler design experiments** and focuses 
 - Pattern recognition
 - String and character processing
 
-> 📄 Detailed documentation is available inside `Lab1/README.md`.<br>
+> Detailed documentation is available inside `Lab1/README.md`.<br>
 
 ---
 
-### 🔹 Lab n (Future Lab)
+### Lab n (Future Lab)
 **Purpose:**
 
 **Program Covered:**
@@ -93,7 +93,7 @@ Lab 1 marks the **beginning of actual compiler design experiments** and focuses 
 
 ---
 
-## ⚙️ Compilation & Execution
+## Compilation & Execution
 
 All programs are written in **C** and can be compiled using **GCC**.<br>
 
@@ -105,7 +105,7 @@ gcc program.c -o program<br>
 
 ---
 
-### 📚 Learning Outcomes
+### Learning Outcomes
 By completing all labs in this repository, you will:
 - Understand the phases of a compiler<br>
 - Implement core compiler components in C<br>
@@ -114,14 +114,14 @@ By completing all labs in this repository, you will:
 
 ---
 
-### ✅ Notes
+### Notes
 - Each lab folder contains its own detailed README.md
 - This repository is structured for academic evaluation and GitHub presentation
 - Future labs will follow the same documentation and coding standards
 
 ---
 
-### 🧑‍💻 Author
+### Author
 
 **Name:** Kamalesh S P<br>
 **Course:** Compiler Design<br>

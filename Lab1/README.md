@@ -1,6 +1,6 @@
 # Lab 1 – Lexical Analyzer in C
 
-## 📌 Objective
+## Objective
 The objective of this lab is to design and implement a **basic lexical analyzer in C** that scans an input expression and identifies different types of tokens such as:
 - Keywords
 - Identifiers
@@ -12,7 +12,7 @@ This lab introduces the **first phase of compiler design – Lexical Analysis**.
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 Lab1/<br>
 ├── README.md<br>
@@ -23,9 +23,9 @@ Lab1/<br>
 
 ---
 
-## 🧪 Program Included
+## Program Included
 
-### 1️⃣ Lexical Analyzer
+### Lexical Analyzer
 
 **File:** `Lex.c`
 
@@ -43,7 +43,7 @@ Lab1/<br>
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 - Lexical analysis fundamentals
 - Tokenization
 - Character classification
@@ -53,7 +53,7 @@ Lab1/<br>
 
 ---
 
-## ⚙️ How to Compile and Run
+## How to Compile and Run
 
 Use a C compiler like **GCC**.<br>
 
@@ -67,10 +67,10 @@ gcc Lex.c -o Lex<br>
 
 ---
 
-### 🖥️ Sample Input
+### Sample Input
 int x = a + 30<br>
 
-### 🖥️ Sample Output
+### Sample Output
 Token: Keyword, Value: int<br>
 Token: Identifier, Value: x<br>
 Token: Operator, Value: =<br>
@@ -80,7 +80,7 @@ Token: Integer, Value: 30<br>
 
 ---
 
-### 📚 Learning Outcomes
+### Learning Outcomes
 
 After completing this lab, you will be able to:
 - Understand the role of lexical analysis in compiler design
@@ -90,7 +90,7 @@ After completing this lab, you will be able to:
 
 ---
 
-### 🧑‍💻 Author
+### Author
 
 **Name:** Kamalesh S P<br>
 **Course:** Compiler Design<br>

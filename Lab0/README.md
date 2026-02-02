@@ -1,6 +1,6 @@
 # Lab 0 – String Operations in C
 
-## 📌 Objective
+## Objective
 The objective of this lab is to understand and implement basic **string manipulation operations in C** using:
 - Built-in string functions
 - Manual logic without using built-in functions
@@ -9,7 +9,7 @@ This lab strengthens fundamentals such as array handling, loops, conditionals, a
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 Lab0/<br>
 ├── README.md<br>
@@ -24,9 +24,9 @@ Lab0/<br>
 
 ---
 
-## 🧪 Programs Included
+## Programs Included
 
-### 1️⃣ String Reverser
+### 1. String Reverser
 
 **File:** `String Reverser.c`
 
@@ -54,7 +54,7 @@ Reversed string: PShselamaK<br>
 
 ---
 
-### 2️⃣ String Length
+### 2. String Length
 
 **File:** `String Length.c`
 
@@ -78,7 +78,7 @@ Length of string without build-in function: 10<br>
 
 ---
 
-### 3️⃣ String Comparison
+### 3. String Comparison
 
 **File:** `String Comparison.c`
 
@@ -119,7 +119,7 @@ Strings are not equal<br>
 
 ---
 
-## ⚙️ How to Compile and Run
+## How to Compile and Run
 
 Use a C compiler like **GCC**.<br>
 
@@ -137,7 +137,7 @@ gcc String\ Comparison.c -o StringComparison<br>
 
 ---
 
-### 📚 Learning Outcomes
+### Learning Outcomes
 After completing this lab, you will be able to:
 - Understand string storage in C
 - Differentiate between built-in functions and manual logic
@@ -146,7 +146,7 @@ After completing this lab, you will be able to:
 
 ---
 
-### 🧑‍💻 Author
+### Author
 **Name:** Kamalesh S P<br>
 **Course:** Compiler Design<br>
 **Lab:** Lab 0 – String Operations<br>
