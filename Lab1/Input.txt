@@ -1,0 +1,63 @@
+int main
+int a = 2
+`
+int a = b
+.
+1e.05
+frgergtt111
+int x
+float y
+double z
+0
+123
+007
+999999
+1.0
+0.5
+.5
+5.
+3.14159
+123.456789
+1e.05
+9e9.9
+..
+1..2
+.
+a
+abc
+abc123
+_abc
+_var1
+A1B2
+1abc
+@var
+$money
+a-b
+name!
+int
+float
+double
+main
+return
+a+b
+x=10
+y = 3.14
+z = 1e.05
+`
+~
+#
+..
+;;
+{}
+[]
+int main
+{
+int a = 10
+float b = 3.14
+c = a + b
+}
+_
+__
+___
+_1
+1_
