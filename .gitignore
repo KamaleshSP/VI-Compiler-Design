@@ -5,6 +5,7 @@
 
 # Ignore object files
 *.o
+.csv
 
 # Ignore VS Code settings
 .vscode/
