@@ -156,7 +156,7 @@ int main()
         lex_input[strcspn(lex_input, "\n")] = '\0';
         if (strlen(lex_input) == 0)
             continue;
-        printf("For Expression \"%s\":\n", lex_input);
+        printf("For Expression \"%s\":\n...", lex_input);
         lexicalAnalyzer(lex_input);
         printf("\n");
     }

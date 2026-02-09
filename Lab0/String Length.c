@@ -6,9 +6,9 @@ int main()
     int length = 0;
     printf("Enter string: ");
     scanf("%s", str);
-    printf("Length of string with build-in function: %d\n", strlen(str));
+    printf("Length of string with build-in function: %d...\n", strlen(str));
     while (str[length] != '\0')
         length++;
-    printf("Length of string without build-in function: %d\n", length);
+    printf("Length of string without build-in function: %d...\n", length);
     return 0;
 }

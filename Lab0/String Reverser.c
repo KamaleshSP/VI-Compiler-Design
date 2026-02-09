@@ -15,7 +15,7 @@ int main()
         str[k] = str[l];
         str[l] = temp;
     }
-    printf("Reversed string: %s\n", str);
+    printf("Reversed string: %s\n...", str);
     printf("String Reverse without build-in function...\n");
     while (original[i] != '\0')
         i++;
